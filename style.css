@@ -90,22 +90,22 @@ p {
 
 
 
-@media (min-width: 100px) {
+@media (min-width: 500px) {
   .container {
-    width: 575px;
+    width: 400px;
   }
 }
 
 
-@media (min-width: 576px) {
+@media (min-width: 800px) {
   .container {
-    width: 576px;
+    width: 600px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
   .container {
-    width: 768px;
+    width: 800px;
   }
 }
 
